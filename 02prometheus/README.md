@@ -25,7 +25,7 @@ Prometheus受启发于Google的Borgmon监控系统（相似的Kubernetes是从Go
 
 ## 架构
 
-![Prometheus架构图](.\images\readme001.png)
+![Prometheus架构图](./images/readme001.png)
 
 从上图可以看出，Prometheus 的主要模块包括：Prometheus server, exporters, Pushgateway, PromQL, Alertmanager 以及图形界面。
 
