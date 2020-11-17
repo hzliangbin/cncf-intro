@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * Kubernetes
-* Prometheus
+* [Prometheus](02 prometheus/README.md)
 * Envoy
 * CoreDNS
 * Containerd
