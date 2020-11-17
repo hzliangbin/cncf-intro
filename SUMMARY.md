@@ -11,7 +11,7 @@
 * Vitness
 * TUF
 * Helm
-* Harbor
+* [Harbor](11harbor/README.md)
 * TiKV
 * Rook
 
